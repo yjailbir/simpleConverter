@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="us_dollars">US Dollars</string>
+    <string name="russian_roubles">Russian Roubles</string>
+    <string name="euros">Euros</string>
+    <string name="convert">Convert</string>
+    <string name="clear">Clear</string>
+</resources>
